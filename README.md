@@ -1,6 +1,6 @@
 # sassdoc-loader
 
-[![Build Status](https://travis-ci.org/domjtalbot/sassdoc-loader.svg?branch=master)](https://travis-ci.org/domjtalbot/sassdoc-loader) [![npm version](https://badge.fury.io/js/sassdoc-loader.svg)](https://badge.fury.io/js/sassdoc-loader)
+[![Build Status](https://travis-ci.org/domjtalbot/sassdoc-loader.svg?branch=master)](https://travis-ci.org/domjtalbot/sassdoc-loader) [![npm version](https://badge.fury.io/js/%40domjtalbot%2Fsassdoc-loader.svg)](https://badge.fury.io/js/%40domjtalbot%2Fsassdoc-loader)
 > Webpack loader for [sassdoc](https://github.com/SassDoc/sassdoc)
 
 ## [Install](https://www.npmjs.com/package/@domjtalbot/sassdoc-loader)
