@@ -1,10 +1,10 @@
 {
   "name": "@domjtalbot/sassdoc-loader",
-  "version": "0.1.1-beta",
+  "version": "0.1.2-beta",
   "description": "sassdoc loader (for webpack)",
   "main": "dist/sassdoc-loader.js",
   "scripts": {
-    "build": "eslint lib/**; babel lib -d /Users/Dom/Dropbox/Documents/Development/Web/Portfolio/node_modules/@domjtalbot/sassdoc-loader/dist"
+    "build": "eslint lib/**; babel lib -d dist"
   },
   "repository": "https://github.com/domjtalbot/sassdoc-loader.git",
   "keywords": [
