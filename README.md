@@ -2,7 +2,6 @@
 
 [![Travis](https://img.shields.io/travis/domjtalbot/sassdoc-loader.svg?style=flat-square)](https://travis-ci.org/domjtalbot/sassdoc-loader)
 [![npm](https://img.shields.io/npm/v/@domjtalbot/sassdoc-loader.svg?style=flat-square)](https://www.npmjs.com/package/sassdoc-loader)
-[![npm](https://img.shields.io/npm/l/sassdoc-loader.svg?style=flat-square)](https://www.npmjs.com/package/sassdoc-loader)
 
 > Webpack loader for [sassdoc](https://github.com/SassDoc/sassdoc)
 
