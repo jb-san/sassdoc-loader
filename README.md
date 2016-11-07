@@ -1,6 +1,9 @@
 # sassdoc-loader
 
 [![Travis](https://img.shields.io/travis/domjtalbot/sassdoc-loader.svg?style=flat-square)](https://travis-ci.org/domjtalbot/sassdoc-loader)
+[![Code climate](https://img.shields.io/codeclimate/github/domjtalbot/sassdoc-loader.svg?style=flat-square)](https://codeclimate.com/github/domjtalbot/sassdoc-loader)
+[![bitHound](https://img.shields.io/bithound/code/github/domjtalbot/sassdoc-loader.svg?style=flat-square)](https://www.bithound.io/github/domjtalbot/sassdoc-loader)
+[![bitHound](https://img.shields.io/bithound/dependencies/github/domjtalbot/sassdoc-loader.svg?style=flat-square)](https://www.bithound.io/github/domjtalbot/sassdoc-loader)
 [![npm](https://img.shields.io/npm/v/@domjtalbot/sassdoc-loader.svg?style=flat-square)](https://www.npmjs.com/package/sassdoc-loader)
 
 > Webpack loader for [sassdoc](https://github.com/SassDoc/sassdoc)
